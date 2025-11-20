@@ -82,7 +82,7 @@ const findNextFolders = async (dir, found = []) => {
 };
 
 const main = async () => {
-  console.log(chalk.cyan.bold('\n🧹 Next.js Cleaner (Like npkill for .next)\n'));
+  console.log(chalk.cyan.bold('\n🧹 Next.js Cleaner\n'));
   
   const spinner = ora('Scanning current directory recursively...').start();
   const currentDir = process.cwd();

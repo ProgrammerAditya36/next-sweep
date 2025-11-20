@@ -1,7 +1,6 @@
 # next-sweep
 
 [![npm version](https://img.shields.io/npm/v/next-sweep.svg)](https://www.npmjs.com/package/next-sweep)
-[![npm downloads](https://img.shields.io/npm/dm/next-sweep.svg)](https://www.npmjs.com/package/next-sweep)
 
 A CLI tool to find and delete `.next` folders recursively, similar to `npkill` but specifically for Next.js build directories.
 
@@ -49,7 +48,7 @@ next-sweep
 
 Output:
 ```
-🧹 Next.js Cleaner (Like npkill for .next)
+🧹 Next.js Cleaner
 
 Found 3 folders. Potential space to reclaim: 245.3 MB
 
@@ -81,7 +80,7 @@ If you want to contribute or run the development version:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/ProgrammerAditya36/next-sweep.git
 cd next-sweep
 
 # Install dependencies
@@ -122,4 +121,4 @@ MIT © 2025 next-sweep contributors
 ## Links
 
 - [npm package](https://www.npmjs.com/package/next-sweep)
-- [GitHub repository](https://github.com/yourusername/next-sweep) (if applicable)
+- [GitHub repository](https://github.com/ProgrammerAditya36/next-sweep)
