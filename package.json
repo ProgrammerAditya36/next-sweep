@@ -1,11 +1,11 @@
 {
   "name": "next-sweep",
-  "version": "1.0.2",
+  "version": "1.0.2.1",
   "description": "A CLI tool to find and delete .next folders recursively",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "next-sweep": "./index.js"
+    "next-sweep": "index.js"
   },
   "scripts": {
     "start": "node index.js"
